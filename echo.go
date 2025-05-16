@@ -19,6 +19,7 @@ func Subtract(a, b int) int {
 }
 
 func Divide(a, b int) (int, error) {
+	// Check for division by zero
 	if b == 0 {
 		return 0, fmt.Errorf("cannot divide by zero")
 	}
