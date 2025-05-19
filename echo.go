@@ -10,18 +10,18 @@ func Add(a, b int) int {
 	return a + b
 }
 
-func Multiply(a, b int) int {
-	return a * b
-}
+// func Multiply(a, b int) int {
+// 	return a * b
+// }
 
 func Subtract(a, b int) int {
 	return a - b
 }
 
-func Divide(a, b int) (int, error) {
-	// Check for division by zero
-	if b == 0 {
-		return 0, fmt.Errorf("cannot divide by zero")
-	}
-	return a / b, nil
-}
+// func Divide(a, b int) (int, error) {
+// 	// Check for division by zero
+// 	if b == 0 {
+// 		return 0, fmt.Errorf("cannot divide by zero")
+// 	}
+// 	return a / b, nil
+// }
