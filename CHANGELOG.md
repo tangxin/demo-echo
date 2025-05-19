@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.15] - 2025-05-19
+
+### ⚙️ Miscellaneous Tasks
+
+- *(ci)* Reset goreleaser
+
+## [0.1.14] - 2025-05-19
+
+### 📚 Documentation
+
+- Clean .goreleaser.yaml
+
+## [0.1.13] - 2025-05-19
+
+### ⚙️ Miscellaneous Tasks
+
+- *(ci)* Reset goreleaser
+
+## [0.1.12] - 2025-05-19
+
+### ⚙️ Miscellaneous Tasks
+
+- *(ci)* Fix variables name
+
+## [0.1.11] - 2025-05-19
+
+### ⚙️ Miscellaneous Tasks
+
+- *(ci)* Goreleaser pipeline
+
 ## [0.1.10] - 2025-05-19
 
 ### 🚀 Features
