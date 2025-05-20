@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.17] - 2025-05-20
+
+### ⚙️ Miscellaneous Tasks
+
+- Readme v0.1.17
+
 ## [0.1.16] - 2025-05-20
 
 ### 🚀 Features
