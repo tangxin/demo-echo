@@ -14,6 +14,7 @@ func Subtract(a, b int) int {
 	return a - b
 }
 
+// Println prints the values of a and b
 func Println(a, b int) {
 	fmt.Println("a:", a, "b:", b)
 }
