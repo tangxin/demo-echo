@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.16] - 2025-05-20
+
+### 🚀 Features
+
+- Add new func - println
+
+### 📚 Documentation
+
+- Update chagnelog.md
+
+### ⚙️ Miscellaneous Tasks
+
+- Docs update
+- Readme
+
 ## [0.1.15] - 2025-05-19
 
 ### ⚙️ Miscellaneous Tasks

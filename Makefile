@@ -5,7 +5,7 @@ VERSION ?= v$(shell cat .version)
 changelog:
 	git cliff --tag=$(VERSION) -o CHANGELOG.md
 
-version: 
+version: changelog
 	git add . && git commit -m "Release $(VERSION)"
 	
 tag:
