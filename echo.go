@@ -13,3 +13,7 @@ func Add(a, b int) int {
 func Subtract(a, b int) int {
 	return a - b
 }
+
+func Println(a, b int) {
+	fmt.Println("a:", a, "b:", b)
+}
